@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 <!--                                          Banner                          -->
 <p align="center">
-  <a href="muditgarg48.github.io">
+  <a href="https://muditgarg48.github.io">
     <img src="banner.png" height="400" alt="Let's go to my website"/>
   </a>
 </p>

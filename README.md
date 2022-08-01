@@ -70,70 +70,78 @@ Here are some ideas to get you started:
 <img align="right" src="https://monophy.com/media/QYSag6x86oZhG2KcFQ/monophy.gif" width="200px">
 <h2>Skills</h2>
 
-  <h3 align="left"><i>Languages I know</i></h3>
-  <p align="left">
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo--v2.gif" height="40" width="40" /> -->
-    &nbsp;
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" height="40" width="40" /> -->
-    &nbsp;
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/python--v2.gif" height="40" width="40" /> -->
-    &nbsp;
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/dart.png" height="40" width="40" /> -->
-    &nbsp;&nbsp;
-  </p>
+  <details>
+  <summary><h3 align="left"><i>:mountain_snow:Languages I know</i></h3></summary>
+    <p align="left">
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo--v2.gif" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/python--v2.gif" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/dart.png" height="40" width="40" /> -->
+      &nbsp;&nbsp;
+    </p>
+  </details>
   
-  <h3 align="left"><i>Web Development I know</i></h3>
-  <p align="left">  
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/html-5--v2.png" height="40" width="40" /> -->
-    &nbsp;
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/css3.png" height="40" width="40" /> -->
-    &nbsp;
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/javascript--v2.gif" height="40" width="40" /> -->
-    &nbsp;
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/bootstrap.png" height="40" width="40" /> -->
-    &nbsp;&nbsp;
-  </p>
+  <details>
+    <summary><h3 align="left"><i>:earth_asia:Web Development I know</i></h3></summary>
+    <p align="left">  
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/html-5--v2.png" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/css3.png" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/javascript--v2.gif" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/bootstrap.png" height="40" width="40" /> -->
+      &nbsp;&nbsp;
+    </p>
+  </details>
   
-  <h3 align="left"><i>Technologies I am familiar with</i></h3>
-  <p align="left"> 
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/flutter.png" height="40" width="40" /> -->
-    &nbsp;
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/git.png" height="40" width="40" /> -->
-    &nbsp;&nbsp;
-  </p>
-  
-  <h3 align="left"><i>IDEs I am worked with</i></h3>
-  <p align="left">
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" height="40" width="40" /> -->
-    &nbsp;
-    &nbsp;
-    <img src="https://img.icons8.com/color/2x/sublime-text.png" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/sublime-text.png" height="40" width="40" /> -->
-    &nbsp;
-    &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="70" width="70"/>
-<!--     <img src="https://img.icons8.com/color/2x/jetbrains.png" height="40" width="40" /> -->
-    &nbsp;&nbsp;
-  </p>
+  <details>
+    <summary><h3 align="left"><i>:hammer_and_wrench:Technologies I am familiar with</i></h3></summary>
+    <p align="left"> 
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/flutter.png" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/git.png" height="40" width="40" /> -->
+      &nbsp;&nbsp;
+    </p>
+  </details>
+
+  <details>
+    <summary><h3 align="left"><i>:motorcycle:IDEs I am worked with</i></h3></summary>
+    <p align="left">
+      &nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://img.icons8.com/color/2x/sublime-text.png" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/sublime-text.png" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="70" width="70"/>
+  <!--     <img src="https://img.icons8.com/color/2x/jetbrains.png" height="40" width="40" /> -->
+      &nbsp;&nbsp;
+    </p>
+  </details>

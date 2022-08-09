@@ -11,15 +11,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
 
 <!--                                          Banner                          -->
 <p align="center">
   <a href="https://muditgarg48.github.io">
-    <img src="banner.png" height="400" alt="Let's go to my website"/>
+    <img src="banner.png" height="450" alt="Let's go to my website"/>
   </a>
 </p>
 
 <hr>
+<br>
 
 
 <!--                                      Welcome message                     -->
@@ -29,10 +31,12 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 </p>
 
+<br>
 
 <!--                                          Titles                          -->
 <h2 align="center">Software Developer | Technical Enthusiast | College Student</h2>
 
+<br>
 
 <!--                                        Social Media                      -->
 <p align="center">
@@ -64,12 +68,13 @@ Here are some ideas to get you started:
   &nbsp;
 </p>
 
+<br>
 
 <!--                                     Skills section                        -->
 
 <img align="right" src="https://monophy.com/media/QYSag6x86oZhG2KcFQ/monophy.gif" width="200px">
 <h2>Skills</h2>
-
+<br>
   <details>
   <summary><h3 align="left"><i>:mountain_snow:Languages I know</i></h3></summary>
     <p align="left">
@@ -146,12 +151,16 @@ Here are some ideas to get you started:
     </p>
   </details>
 
+<br>
 
 <!--                                     Stats section                        -->
 
 <img align="right" src="https://growthgate.com/wp-content/uploads/2019/09/animat-linechart-color.gif" width="300px">
 <h2>Stats</h2>
+<br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=muditgarg48&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=1588DDD3&stroke=1588DDD3&fire=B37920&currStreakNum=B37920&sideNums=B37920&currStreakLabel=B37920&sideLabels=77A2B5">
 
+<br>
 <h2>The End</h2>
+<br>
 <img src="https://i.gifer.com/4Cb2.gif" width="500px">

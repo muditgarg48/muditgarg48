@@ -115,6 +115,9 @@ Here are some ideas to get you started:
       &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="70" width="70"/>
   <!--     <img src="https://img.icons8.com/color/2x/bootstrap.png" height="40" width="40" /> -->
+      &nbsp;
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="70" width="70"/>
       &nbsp;&nbsp;
     </p>
   </details>
